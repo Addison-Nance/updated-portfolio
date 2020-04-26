@@ -3,7 +3,6 @@ html, body {
 }
 .mainbody{
     position:relative;
-    z-index:990;
     height:700px;
     width:100%
 }
@@ -13,4 +12,10 @@ html, body {
 }
 .brand-logo{
     margin-left:15px;
+}
+.contactbody{
+    background-color:white;
+    height:500px;
+    width:auto;
+    padding-top:20px;
 }
