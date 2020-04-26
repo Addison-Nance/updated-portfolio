@@ -19,3 +19,10 @@ html, body {
     width:auto;
     padding-top:20px;
 }
+.brand-logo{
+    margin-left:15px;
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+
+}
